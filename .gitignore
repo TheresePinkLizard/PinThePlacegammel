@@ -4,3 +4,8 @@ obj/PinThePlace.csproj.nuget.dgspec.json
 obj/PinThePlace.csproj.nuget.g.props
 obj/PinThePlace.csproj.nuget.dgspec.json
 obj/project.assets.json
+obj/PinThePlace.csproj.nuget.dgspec.json
+obj/project.assets.json
+obj/project.nuget.cache
+*.json
+*.cache
