@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\there\\.nuget\\packages\\": {}
+    "C:\\Users\\inger\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\there\\Documents\\Høsten 2024 Skole\\webapplikasjoner2\\PinThePlaceWebapplikasjoner\\PinThePlace\\PinThePlace.csproj",
+      "projectUniqueName": "C:\\Users\\inger\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj",
       "projectName": "PinThePlace",
-      "projectPath": "C:\\Users\\there\\Documents\\Høsten 2024 Skole\\webapplikasjoner2\\PinThePlaceWebapplikasjoner\\PinThePlace\\PinThePlace.csproj",
-      "packagesPath": "C:\\Users\\there\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\there\\Documents\\Høsten 2024 Skole\\webapplikasjoner2\\PinThePlaceWebapplikasjoner\\PinThePlace\\obj\\",
+      "projectPath": "C:\\Users\\inger\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj",
+      "packagesPath": "C:\\Users\\inger\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\inger\\Documents\\GitHub\\PinThePlace\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\there\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\inger\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
