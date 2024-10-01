@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\solve\\.nuget\\packages\\": {}
+    "C:\\Users\\Inger\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\solve\\VSprojects\\Webapplikasjoner\\PinThePlace\\PinThePlace.csproj",
+      "projectUniqueName": "C:\\Users\\Inger\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj",
       "projectName": "PinThePlace",
-      "projectPath": "C:\\Users\\solve\\VSprojects\\Webapplikasjoner\\PinThePlace\\PinThePlace.csproj",
-      "packagesPath": "C:\\Users\\solve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\solve\\VSprojects\\Webapplikasjoner\\PinThePlace\\obj\\",
+      "projectPath": "C:\\Users\\Inger\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj",
+      "packagesPath": "C:\\Users\\Inger\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Inger\\Documents\\GitHub\\PinThePlace\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\solve\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Inger\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
