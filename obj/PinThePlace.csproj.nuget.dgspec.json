@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\inger\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj": {}
+    "C:\\Users\\solve\\VSprojects\\Webapplikasjoner\\PinThePlace\\PinThePlace.csproj": {}
   },
   "projects": {
-    "C:\\Users\\inger\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj": {
+    "C:\\Users\\solve\\VSprojects\\Webapplikasjoner\\PinThePlace\\PinThePlace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\inger\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj",
+        "projectUniqueName": "C:\\Users\\solve\\VSprojects\\Webapplikasjoner\\PinThePlace\\PinThePlace.csproj",
         "projectName": "PinThePlace",
-        "projectPath": "C:\\Users\\inger\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj",
-        "packagesPath": "C:\\Users\\inger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\inger\\Documents\\GitHub\\PinThePlace\\obj\\",
+        "projectPath": "C:\\Users\\solve\\VSprojects\\Webapplikasjoner\\PinThePlace\\PinThePlace.csproj",
+        "packagesPath": "C:\\Users\\solve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\solve\\VSprojects\\Webapplikasjoner\\PinThePlace\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\inger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\solve\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
