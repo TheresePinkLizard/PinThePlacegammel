@@ -1,5 +1,5 @@
 # Pin The Place
-## Sub-application 1
+### Sub-application 1
 
 Dette er et prosjekt som jobbes med høsten 2024 i faget ITPE3200-Webapplikasjoner ved OsloMet og blir utført av en 
 gruppe bestående av 3 studenter. 
@@ -16,6 +16,6 @@ bruker oppretter et innlegg så får de muligheten til å gi terningkast, laste 
 ### Tilsvarende prosjekt:
 
 # Pin The Place2
-## Sub-application 2:
+### Sub-application 2:
 Det lages også et tilsvarende prosjekt dette semesteret, sub-application 2 som har akkurat de samme funksjonalitetene 
 men bruker istedet et front-end rammeverk med AJAX call (React). Dette prosjektet vil ha sitt eget repository. 
