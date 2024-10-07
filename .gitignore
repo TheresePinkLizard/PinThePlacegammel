@@ -20,3 +20,8 @@ obj/Debug/net8.0/PinThePlace.GeneratedMSBuildEditorConfig.editorconfig
 *.editorconfig
 obj/Debug/net8.0/PinThePlace.AssemblyInfo.cs
 obj/Debug/net8.0/PinThePlace.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net8.0/PinThePlace.AssemblyInfo.cs
+obj/PinThePlace.csproj.nuget.dgspec.json
+obj/PinThePlace.csproj.nuget.g.props
+obj/project.assets.json
+obj/project.nuget.cache
