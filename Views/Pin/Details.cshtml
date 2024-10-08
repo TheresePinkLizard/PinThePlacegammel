@@ -1,0 +1,15 @@
+@model Pin
+
+<h3 class="my-5">
+    @Model.Name
+</h3>
+
+<!--Når man har trykket på Navnet på pin så kommer denne siden opp -->
+<div class="row gx-5">
+    <img alt="@Model.Name" src="@Model.ImageUrl" class="img-fluid col-5"/>
+    <div class="col-7">
+        <h5>@Model.Comment/h5>
+        <h3 class="pull-right">@Model.Rating.ToString("5")</h3>
+        <p><a href="/Pin/Table">Back to Table View</a></p>
+    </div>
+</div>

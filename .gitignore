@@ -3,3 +3,4 @@
 **/obj
 **/node_modules
 **/build
+obj/Debug/net8.0/PinThePlace.AssemblyInfo.cs

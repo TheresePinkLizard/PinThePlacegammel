@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+
     "C:\\Users\\solve\\VSprojects\\Webapplikasjoner\\PinThePlace\\PinThePlace.csproj": {}
   },
   "projects": {
@@ -15,6 +16,7 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\solve\\AppData\\Roaming\\NuGet\\NuGet.Config"
+main
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -42,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
