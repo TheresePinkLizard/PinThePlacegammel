@@ -13,13 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PinThePlace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< Updated upstream
-
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d622411b843e8b14bef3210f179b396950de15d6")]
-main
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0844801594ea5c99259ac4368112706af1e04e62")]
->>>>>>> Stashed changes
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32310fe7df74997f0b7edbb0cc8109a72ac4541e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PinThePlace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PinThePlace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

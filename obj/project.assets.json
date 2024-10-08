@@ -1186,25 +1186,11 @@
     ]
   },
   "packageFolders": {
-<<<<<<< Updated upstream
-    "C:\\Users\\Inger\\.nuget\\packages\\": {}
-=======
     "C:\\Users\\there\\.nuget\\packages\\": {}
->>>>>>> Stashed changes
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< Updated upstream
-      "projectUniqueName": "C:\\Users\\Inger\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj",
-      "projectName": "PinThePlace",
-      "projectPath": "C:\\Users\\Inger\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj",
-      "packagesPath": "C:\\Users\\Inger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Inger\\Documents\\GitHub\\PinThePlace\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\Inger\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
       "projectUniqueName": "C:\\Users\\there\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj",
       "projectName": "PinThePlace",
       "projectPath": "C:\\Users\\there\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj",
@@ -1213,7 +1199,6 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\there\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> Stashed changes
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1266,7 +1251,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
