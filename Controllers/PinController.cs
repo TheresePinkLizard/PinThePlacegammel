@@ -34,6 +34,7 @@ public class PinController : Controller
         var pinsViewModel = new PinsViewModel(pins, "Table");
         // en action kan returnere enten: View, JSON, en Redirect, eller annet. 
         // denne returnerer en view
+        Console.WriteLine($"Fetched {pins.Count} pins from the database.");
         return View(pinsViewModel);
     }
 
