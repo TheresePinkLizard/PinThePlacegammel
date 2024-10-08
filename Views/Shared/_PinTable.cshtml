@@ -1,0 +1,40 @@
+@model IEnumerable<Pin>
+
+<div class="container">
+        <table class='table table-striped'>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Rating</th>
+                <th>Comment</th>
+                <th>Image</th>
+                <th>Actions</th>
+            </tr>
+            @foreach (var pin in Model)    
+            {
+                <tr>
+                    <td>@pin.PinId</td>
+                    <td>
+                        <a asp-controller="Pin" 
+                         asp-action="Comment" 
+                         asp-route-id="@pin.PinId">@pin.Name</a>
+                    </td>
+                    <td>@pin.Rating.ToString("5")</td>
+                    <td>@pin.Comment</td>
+                    <td>
+                        <img src="@pin.ImageUrl" alt="Item Image" style="max-width: 80px; max-height: 80px;"/>
+                    </td>
+                    <td>
+                        <a asp-action="Update" asp-route-id="@pin.PinId">Update</a>
+                        <a asp-action="Delete" asp-route-id="@pin.PinId">Delete</a>
+                    </td>
+                </tr>
+            }
+        </table>
+        <p>
+         <!--Mekanisme for å lage ny data entry CRUD-->
+            <a class="btn btn-secondary"
+                asp-controller="Pin"
+                asp-action="Create"> Add a pin</a>
+        </p>
+    </div>

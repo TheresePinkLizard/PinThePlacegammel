@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\Inger\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Inger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\Users\\there\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\there\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\there\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj",
+        "projectName": "PinThePlace",
+        "projectPath": "C:\\Users\\there\\Documents\\GitHub\\PinThePlace\\PinThePlace.csproj",
+        "packagesPath": "C:\\Users\\there\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\there\\Documents\\GitHub\\PinThePlace\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\there\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> Stashed changes
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -42,6 +59,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
