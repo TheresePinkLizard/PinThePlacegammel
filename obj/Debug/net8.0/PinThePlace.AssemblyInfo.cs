@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PinThePlace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b0c5eaf1a0e11e34b0ec496e283f6f66d03e6a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa3f0d29d4efd85ac05f8d227549ce31fb681946")]
 [assembly: System.Reflection.AssemblyProductAttribute("PinThePlace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PinThePlace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
